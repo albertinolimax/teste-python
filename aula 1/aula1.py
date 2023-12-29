@@ -5,7 +5,7 @@ novas_vendas = 300
 faturamento = faturamento + novas_vendas
 
 taixa_imposto = 0.1 # numero decimal -> float
-mmensagem = 'O faturamento foi de' # string = txto
+mmensagem = 'O faturamento da empresa foi de' # string = txto
 teve_lucro = False # boolean 
 
 imposto = taixa_imposto * faturamento
